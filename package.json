@@ -1,5 +1,5 @@
 {
-    "name": "@develofy/lavalink-wrapper",
+    "name": "@awokenshu/lavalink",
     "private": false,
     "version": "1.0.0",
     "description": "A wrapper for Discord bots with simple usage. Playing music has never been easier!",

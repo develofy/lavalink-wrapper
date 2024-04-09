@@ -16,7 +16,7 @@
 
 ```js
 const { Client } = require("discord.js");
-const { LavaClient } = require("@develofy/lavalink");
+const { LavaClient } = require("@awokenshu/lavalink");
 
 const bot = new Client();
 
@@ -24,7 +24,7 @@ const nodes = [
 	{
 		host: "localhost",
 		port: 2333,
-		password: "mypassword",
+		password: "mysecretpassword",
 		retries: 5,
 	},
 ];
