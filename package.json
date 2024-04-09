@@ -1,0 +1,34 @@
+{
+    "name": "@develofy/lavalink-wrapper",
+    "private": false,
+    "version": "1.0.0",
+    "description": "A wrapper for Discord bots with simple usage. Playing music has never been easier!",
+    "main": "./dist/index.js",
+    "types": "./typings/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/develofy/lavalink-wrapper.git"
+    },
+    "keywords": [
+        "lavalink",
+        "discord.js",
+        "discord",
+        "music",
+        "lavajs",
+        "bot",
+        "lavaplayer"
+    ],
+    "author": "Awoken",
+    "license": "AGPL-3.0-only",
+    "homepage": "https://github.com/develofy/lavalink-wrapper#readme",
+    "dependencies": {
+        "discord.js": "^12.3.1",
+        "events": "^3.2.0",
+        "node-fetch": "^2.6.0",
+        "ws": "^7.3.1"
+    },
+    "devDependencies": {
+        "@types/node-fetch": "^2.5.7",
+        "@types/ws": "^7.2.6"
+    }
+}
